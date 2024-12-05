@@ -21,6 +21,7 @@ const Header = () => {
             <a href="#features" className="text-gray-600 hover:text-blue-500 px-3 py-2">Features</a>
             <a href="#pricing" className="text-gray-600 hover:text-blue-500 px-3 py-2">Pricing</a>
             <a href="docs" className="text-gray-600 hover:text-blue-500 px-3 py-2">Documentation</a>
+            <a href="blog" className="text-gray-600 hover:text-blue-500 px-3 py-2">Blogs</a>
             <button className="ml-4 px-4 py-2 bg-gray-100 text-gray-700 rounded">Sign In</button>
             <button className="ml-4 px-4 py-2 bg-blue-500 text-white rounded">Get Started</button>
           </nav>
@@ -38,6 +39,7 @@ const Header = () => {
               <a href="#features" className="px-3 py-2 text-gray-600">Features</a>
               <a href="#pricing" className="px-3 py-2 text-gray-600">Pricing</a>
               <a href="docs" className="px-3 py-2 text-gray-600">Documentation</a>
+              <a href="blog" className="px-3 py-2 text-gray-600">Blogs</a>
               <button className="mt-2 mx-3 px-4 py-2 bg-gray-100 text-gray-700 rounded">Sign In</button>
               <button className="mt-2 mx-3 px-4 py-2 bg-blue-500 text-white rounded">Get Started</button>
             </div>
