@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Compressingly/static/css/main.00fc698d.css",
-    "main.js": "/Compressingly/static/js/main.03d11c4e.js",
+    "main.js": "/Compressingly/static/js/main.aadc100e.js",
     "index.html": "/Compressingly/index.html",
     "main.00fc698d.css.map": "/Compressingly/static/css/main.00fc698d.css.map",
-    "main.03d11c4e.js.map": "/Compressingly/static/js/main.03d11c4e.js.map"
+    "main.aadc100e.js.map": "/Compressingly/static/js/main.aadc100e.js.map"
   },
   "entrypoints": [
     "static/css/main.00fc698d.css",
-    "static/js/main.03d11c4e.js"
+    "static/js/main.aadc100e.js"
   ]
 }
