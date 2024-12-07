@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Streamingly/Compressingly/static/css/main.00fc698d.css",
+    "main.js": "/Streamingly/Compressingly/static/js/main.03d11c4e.js",
+    "index.html": "/Streamingly/Compressingly/index.html",
+    "main.00fc698d.css.map": "/Streamingly/Compressingly/static/css/main.00fc698d.css.map",
+    "main.03d11c4e.js.map": "/Streamingly/Compressingly/static/js/main.03d11c4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00fc698d.css",
+    "static/js/main.03d11c4e.js"
+  ]
+}
